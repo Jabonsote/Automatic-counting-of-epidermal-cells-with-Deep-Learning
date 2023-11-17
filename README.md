@@ -26,7 +26,7 @@
 sudo apt install python3-venv
 ```
 
-Para la instalación se necesita Python > 3.10.12 . Primeramente se crea un entorno virtual dentro del directorio raíz del proyecto.
+Crear un entorno virtual dentro del directorio raíz del proyecto.
 
 GNU/Linux:
 ```
