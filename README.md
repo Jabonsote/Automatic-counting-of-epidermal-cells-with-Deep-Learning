@@ -17,6 +17,40 @@
 - Código abierto y documentación para fomentar la colaboración y replicabilidad.
 - Mejoras continuas basadas en la retroalimentación y avances en investigación.
 
+## Instalación
+
+### Crear entorno virtual
+
+#### Instalar venv
+```
+sudo apt install python3-venv
+```
+
+Para la instalación se necesita Python > 3.10.12 . Primeramente se crea un entorno virtual dentro del directorio raíz del proyecto.
+
+GNU/Linux:
+```
+python3 -m venv venv
+source ./venv/bin/activate
+```
+
+Luego, se instalan las dependencias usando pip desde (venv).
+
+GNU/Linux:
+```
+python3 -m pip install -r requirements.txt
+```
+
+#### Desactivar el entorno virtual
+
+Para desactivar el entorno virtual, ejecuta el siguiente comando:
+
+GNU/Linux:
+```
+$ deactivate
+```
+
+
 ## Estructura del Repositorio
 
 ```plaintext
