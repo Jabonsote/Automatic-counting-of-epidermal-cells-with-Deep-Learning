@@ -33,14 +33,6 @@ GNU/Linux:
 python3 -m venv venv
 source ./venv/bin/activate
 ```
-
-Luego, se instalan las dependencias usando pip desde (venv).
-
-GNU/Linux:
-```
-python3 -m pip install -r requirements.txt
-```
-
 #### Desactivar el entorno virtual
 
 Para desactivar el entorno virtual, ejecuta el siguiente comando:
@@ -49,6 +41,16 @@ GNU/Linux:
 ```
 $ deactivate
 ```
+
+
+### Dependencias.
+
+GNU/Linux:
+```
+python3 -m pip install -r requirements.txt
+```
+
+
 
 
 ## Estructura del Repositorio
