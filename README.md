@@ -43,7 +43,7 @@ $ deactivate
 ```
 
 
-### Dependencias.
+### Dependencias
 
 GNU/Linux:
 ```
