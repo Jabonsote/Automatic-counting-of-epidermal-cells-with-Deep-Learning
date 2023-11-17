@@ -52,19 +52,3 @@ python3 -m pip install -r requirements.txt
 
 
 
-
-## Estructura del Repositorio
-
-```plaintext
-|-- 📁 data
-|   |-- [Datos de Entrenamiento y Pruebas]
-|-- 📁 notebooks
-|   |-- [Cuadernos Jupyter para Análisis y Experimentación]
-|-- 📁 src
-|   |-- 📁 models
-|   |   |-- [Implementación de Modelos, incluyendo ResNet50]
-|   |-- 📁 utils
-|   |   |-- [Herramientas y utilidades diversas]
-|-- 📄 requirements.txt
-|-- 📄 LICENSE
-|-- 📄 README.md
