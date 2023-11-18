@@ -1,5 +1,6 @@
 # Automatic-counting-of-epidermal-cells-with-Deep-Learning
 ¡Hola! Soy Javier Ramírez G., estudiante de ciencias computacionales en UABC, y este es mi proyecto de investigación para desarrollar un sistema de conteo automático de células epidérmicas en hojas de chile mediante el uso de ResNet50 y Detectron2.
+https://drive.google.com/file/d/1kUDrxEixMdF8XY6m1YaeT0uyDBoCTwwe/view?usp=sharing
 
 <a href="https://drive.google.com/uc?export=view&id=<1kUDrxEixMdF8XY6m1YaeT0uyDBoCTwwe>"><img src="https://drive.google.com/uc?export=view&id=<1kUDrxEixMdF8XY6m1YaeT0uyDBoCTwwe>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
