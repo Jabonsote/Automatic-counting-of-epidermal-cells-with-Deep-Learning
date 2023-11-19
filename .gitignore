@@ -3,3 +3,5 @@ images/
 coco.json
 .ipynb_checkpoints/
 __pycache__/
+src
+src/images/
